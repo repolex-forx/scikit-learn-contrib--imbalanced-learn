@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "imbalanced-learn",
+  "versions": [
+    {
+      "commit": "8504e95f0160f61d1b617ca66f779646d2ee609e",
+      "tag": "0.14.2",
+      "parsed_at": "2026-10-17T05:10:28.627126+00:00"
+    }
+  ]
+}
