@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/imbalanced-learn/commit/8504e95f0160f61d1b617ca66f779646d2ee609e",
       "git:hexsha": "8504e95f0160f61d1b617ca66f779646d2ee609e",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.14.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.14.2",
+      "repolex:parsedAt": "2026-10-17T05:10:28.626442+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/imbalanced-learn/commit/aa5e428358bd4538b71e08e2517b7c2195b80ccd",
